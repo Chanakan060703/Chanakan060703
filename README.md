@@ -70,6 +70,24 @@ I love learning new technologies and applying them to real-world projects.
 
 ---
 
+### 🧸 Toyshop (Mobile Application)  
+<div align="left">
+
+**🔧 Tech Stack:** Java · Android Studio  
+
+**💼 Role:** Mobile Developer  
+- Built the Toyshop app using **Android Studio with Java**. :contentReference[oaicite:0]{index=0}  
+- Developed UI layouts and navigation flow for product listing and shopping cart features.  
+- Managed project structure, dependencies, and Gradle setup. :contentReference[oaicite:1]{index=1}  
+- Tested on emulator / physical device to ensure functionality and UI correctness.  
+
+**🔗 Links:**  
+[![View Project Code](https://img.shields.io/badge/🧸_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/toyShopApp)
+
+</div>
+
+---
+
 ## 📄 Resume  
 
 <div align="center">
