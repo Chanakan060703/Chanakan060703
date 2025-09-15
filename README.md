@@ -34,19 +34,42 @@ I love learning new technologies and applying them to real-world projects.
 
 ## 🌟 Featured Projects  
 
-### 📱 Maebanjumpen (Mobile Application)
-**Role:** Backend Developer  
-- Developed backend using **Spring Boot + Java** with user authentication & role-based access control.  
-- Built **RESTful APIs** to support multiple user roles.  
-- Designed and managed **MySQL database** structure & data flow.  
+### 📱 Maebanjumpen (Mobile + Backend)
+<div align="left">
 
-### 💻 IhaveGPU (Web Application)
-**Role:** Backend Developer  
-- Created backend system with **Spring Boot + Java**.  
-- Built APIs for user management, product listings, and transactions.  
-- Collaborated with frontend developer to integrate APIs seamlessly.  
+**🔧 Tech Stack:** Flutter (Dart) · Spring Boot (Java) · MySQL · REST API  
+
+**💼 Role:** Backend Developer  
+- Developed **RESTful APIs** using Spring Boot & Java (with Hibernate for MySQL).  
+- Designed authentication system with role-based access control.  
+- Built and tested backend with IntelliJ IDEA & Postman.  
+- Collaborated with team on mobile app development using **Flutter + VS Code**.  
+
+**🔗 Links:**  
+[![View Mobile App Code](https://img.shields.io/badge/📱_Mobile_App_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/maebanjumpen)  
+[![View API Code](https://img.shields.io/badge/🖥_Backend_API_Code-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/maebanjumpen-intellij-API)
+
+</div>
 
 ---
+
+### 💻 IhaveGPU (Web Application)
+<div align="left">
+
+**🔧 Tech Stack:** Java · Spring MVC · JSP · MySQL · REST API  
+
+**💼 Role:** Backend Developer  
+- Built core backend using **Spring MVC + Java** in Eclipse.  
+- Developed APIs for user management, product listings, and order flow.  
+- Designed database schema and handled server-side logic.  
+
+**🔗 Links:**  
+[![View Project Code](https://img.shields.io/badge/💻_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/ihavegpuWeb)
+
+</div>
+
+---
+
 
 ## 📊 GitHub Stats  
 
@@ -66,6 +89,16 @@ I love learning new technologies and applying them to real-world projects.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-top: 10px;" />
 
+</div>
+
+---
+
+## 📄 Resume  
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1R4OM3CdMwp3FUDlAAiVn1mOwlSwcPLvb/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-FF6F61?style=for-the-badge" alt="Download Resume" />
+  </a>
 </div>
 
 ---
@@ -94,4 +127,3 @@ I love learning new technologies and applying them to real-world projects.
 
 - 📧 **Email:** [Chonakankongyen@gmail.com](mailto:Chonakankongyen@gmail.com)  
 - 💻 **GitHub:** [github.com/Chanakan060703](https://github.com/Chanakan060703)  
-
