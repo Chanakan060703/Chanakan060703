@@ -73,12 +73,12 @@ I love learning new technologies and applying them to real-world projects.
 ### 🧸 Toyshop (Mobile Application)  
 <div align="left">
 
-**🔧 Tech Stack:** Java · Android Studio  
+**🔧 Tech Stack:** Java · Android Studio · Firebase
 
 **💼 Role:** Mobile Developer  
-- Built the Toyshop app using **Android Studio with Java**. :contentReference[oaicite:0]{index=0}  
+- Built the Toyshop app using **Android Studio with Java**. :contentReference  
 - Developed UI layouts and navigation flow for product listing and shopping cart features.  
-- Managed project structure, dependencies, and Gradle setup. :contentReference[oaicite:1]{index=1}  
+- Managed project structure, dependencies, and Gradle setup. :contentReference
 - Tested on emulator / physical device to ensure functionality and UI correctness.  
 
 **🔗 Links:**  
