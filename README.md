@@ -1,77 +1,82 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chanakan060703/Chanakan060703/main/profile.jpg" width="150px" alt="Chanakan's Profile Picture" />
-  <h1>Hi there, I'm Chanakan Kongyen 👋</h1>
-  <p>An IT student passionate about building things with code.</p>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  
+  <!-- Profile Image -->
+  <img src="https://raw.githubusercontent.com/Chanakan060703/Chanakan060703/main/profile.jpg" width="160px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Chanakan's Profile Picture" />
+
+  <!-- Heading -->
+  <h1 style="margin-top: 15px; font-size: 2.2rem;">Hi there, I'm <span style="color:#007acc;">Chanakan Kongyen</span> 👋</h1>
+  <p style="font-size: 1.1rem; color: #555;">An IT student passionate about building things with code 🚀</p>
+
 </div>
 
 ---
 
-### About Me
+## 👨‍💻 About Me  
 
-I'm a self-motivated IT student with hands-on experience in both **web and mobile application development**. I'm proficient in **Java**, **Spring Boot**, **HTML**, and **Flutter**, and I have a strong understanding of full-stack development principles. I enjoy learning new technologies and applying them to real-world projects. I'm currently studying for a B.Sc. in Information Technology at Maejo University.
+I'm a self-motivated **IT student** with hands-on experience in both **web and mobile application development**.  
+I’m proficient in **Java**, **Spring Boot**, **HTML**, and **Flutter**, with a solid understanding of **full-stack development principles**.  
+I love learning new technologies and applying them to real-world projects.  
 
-<br>
-
-### My Skills & Tools
-
-| Programming Languages | Frameworks & Tools | Web Development | Other |
-| :--- | :--- | :--- | :--- |
-| **• Java**  | **• Spring Boot**  | **• Frontend (HTML/CSS)**  | **• Problem-solving**  |
-| **• Dart**  | **• Flutter**  | **• Backend (Spring Boot)**  | **• Basic database (MySQL/Firebase)** |
-| **• HTML/CSS**  | **• Firebase**  | **• RESTful APIs**| |
-| **• JavaScript** | **• Git & GitHub**  | | |
-
-<br>
+🎓 **Currently studying:** B.Sc. in Information Technology at Maejo University.
 
 ---
 
-### Featured Projects
+## 🛠 My Skills & Tools  
 
-#### 1. Maebanjumpen (Mobile Application)
-
-A team project where I worked as a **Backend Developer**. The application connects hirers and housekeepers, with an admin system to manage operations.
-
-* Designed and implemented the backend using **Spring Boot** and **Java**, including user authentication and role-based access control.
-* Built **RESTful APIs** to support various user roles.
-* Managed the database structure and data flow with **MySQL**.
-
-#### 2. IhaveGPU (Web Application)
-
-A web application for PC component customization and online trading.
-
-* Developed the backend system using **Spring Boot** and **Java**.
-* Created **RESTful APIs** for user management, product listings, and transactions.
-* Collaborated with the frontend developer to integrate APIs.
+| **Programming Languages** | **Frameworks & Tools** | **Web Development** | **Other Skills** |
+| :------------------------ | :------------------- | :---------------- | :-------------- |
+| ☕ **Java**               | 🌱 **Spring Boot**   | 🎨 **Frontend (HTML/CSS)** | 🧠 **Problem-solving** |
+| 🎯 **Dart**               | 📱 **Flutter**      | 🖥 **Backend (Spring Boot)** | 🗄 **MySQL / Firebase** |
+| 🌐 **HTML/CSS**          | 🔥 **Firebase**     | 🌍 **RESTful APIs** | |
+| ⚡ **JavaScript**        | 🛠 **Git & GitHub** | | |
 
 ---
 
-* **GitHub**: [https://github.com/Chanakan060703](https://github.com/Chanakan060703/Chanakan060703)
+## 🌟 Featured Projects  
 
-* **Facebook**: [https://www.facebook.com/chonnakan.kongyen](https://www.facebook.com/chonnakan.kongyen)
+### 📱 Maebanjumpen (Mobile Application)
+**Role:** Backend Developer  
+- Developed backend using **Spring Boot + Java** with user authentication & role-based access control.  
+- Built **RESTful APIs** to support multiple user roles.  
+- Designed and managed **MySQL database** structure & data flow.  
 
-* **Instagram**: [https://www.instagram.com/_.cnk.46_](https://www.instagram.com/_.cnk.46_)
-
-* **Email**: Chonakankongyen@gmail.com
+### 💻 IhaveGPU (Web Application)
+**Role:** Backend Developer  
+- Created backend system with **Spring Boot + Java**.  
+- Built APIs for user management, product listings, and transactions.  
+- Collaborated with frontend developer to integrate APIs seamlessly.  
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
 </div>
 
 ---
 
-### Social Links & Tech Stack
+## 🌐 Social Links & Tech Stack  
 
 <div align="center">
+  <!-- Social Badges -->
   <a href="https://www.facebook.com/chonnakan.kongyen">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_.cnk.46_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css" />
+
+  <br><br>
+
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
 </div>
+
+---
+
+## 📬 Contact  
+
+- 📧 **Email:** [Chonakankongyen@gmail.com](mailto:Chonakankongyen@gmail.com)  
+- 💻 **GitHub:** [github.com/Chanakan060703](https://github.com/Chanakan060703)  
+
