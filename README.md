@@ -70,6 +70,15 @@ I love learning new technologies and applying them to real-world projects.
 
 ---
 
+## 📄 Resume  
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1R4OM3CdMwp3FUDlAAiVn1mOwlSwcPLvb/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-FF6F61?style=for-the-badge" alt="Download Resume" />
+  </a>
+</div>
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -89,16 +98,6 @@ I love learning new technologies and applying them to real-world projects.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-top: 10px;" />
 
-</div>
-
----
-
-## 📄 Resume  
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1R4OM3CdMwp3FUDlAAiVn1mOwlSwcPLvb/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-FF6F61?style=for-the-badge" alt="Download Resume" />
-  </a>
 </div>
 
 ---
