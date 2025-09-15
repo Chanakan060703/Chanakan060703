@@ -45,9 +45,25 @@ A web application for PC component customization and online trading.
 
 ---
 
-### Let's Connect!
+---
 
-* **GitHub**: [https://github.com/Chanakan060703](https://github.com/Chanakan060703/Chanakan060703)
-* **Facebook**: [https://www.facebook.com/chonnakan.kongyen](https://www.facebook.com/chonnakan.kongyen)
-* **Instagram**: [https://www.instagram.com/_.cnk.46_](https://www.instagram.com/_.cnk.46_)
-* **Email**: Chonakankongyen@gmail.com
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=onedark" alt="GitHub Stats" />
+</div>
+
+---
+
+### Social Links & Tech Stack
+
+<div align="center">
+  <a href="https://www.facebook.com/chonnakan.kongyen">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/_.cnk.46_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css" />
+</div>
