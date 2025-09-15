@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 850px; margin: auto;">
   
   <!-- Profile Image -->
   <img src="https://raw.githubusercontent.com/Chanakan060703/Chanakan060703/main/profile.jpg" width="160px" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" alt="Chanakan's Profile Picture" />
@@ -51,7 +51,21 @@ I love learning new technologies and applying them to real-world projects.
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; margin-top: 10px;" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-top: 10px;" />
+
 </div>
 
 ---
@@ -59,18 +73,19 @@ I love learning new technologies and applying them to real-world projects.
 ## 🌐 Social Links & Tech Stack  
 
 <div align="center">
-  <!-- Social Badges -->
-  <a href="https://www.facebook.com/chonnakan.kongyen">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_.cnk.46_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
+<a href="https://www.facebook.com/chonnakan.kongyen">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-  <br><br>
+<a href="https://www.instagram.com/_.cnk.46_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
+
 </div>
 
 ---
