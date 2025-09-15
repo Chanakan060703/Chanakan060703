@@ -16,8 +16,8 @@ I'm a self-motivated IT student with hands-on experience in both **web and mobil
 
 | Programming Languages | Frameworks & Tools | Web Development | Other |
 | :--- | :--- | :--- | :--- |
-| **• Java**  | [cite_start]**• Spring Boot**  | **• Frontend (HTML/CSS)**  | **• Problem-solving**  |
-| **• Dart**  | [cite_start]**• Flutter**  | **• Backend (Spring Boot)**  | **• Basic database (MySQL/Firebase)** |
+| **• Java**  | **• Spring Boot**  | **• Frontend (HTML/CSS)**  | **• Problem-solving**  |
+| **• Dart**  | **• Flutter**  | **• Backend (Spring Boot)**  | **• Basic database (MySQL/Firebase)** |
 | **• HTML/CSS**  | **• Firebase**  | **• RESTful APIs**| |
 | **• JavaScript** | **• Git & GitHub**  | | |
 
