@@ -45,6 +45,14 @@ A web application for PC component customization and online trading.
 
 ---
 
+* **GitHub**: [https://github.com/Chanakan060703](https://github.com/Chanakan060703/Chanakan060703)
+
+* **Facebook**: [https://www.facebook.com/chonnakan.kongyen](https://www.facebook.com/chonnakan.kongyen)
+
+* **Instagram**: [https://www.instagram.com/_.cnk.46_](https://www.instagram.com/_.cnk.46_)
+
+* **Email**: Chonakankongyen@gmail.com
+
 ---
 
 ### GitHub Stats
