@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Chanakan060703/Chanakan060703/blob/3efb4bf750fef237ab05c0e39807775bcf69eca8/profile.jpg" width="150px" alt="Chanakan's Profile Picture" />
+  <img src="https://raw.githubusercontent.com/Chanakan060703/Chanakan060703/main/profile.jpg" width="150px" alt="Chanakan's Profile Picture" />
   <h1>Hi there, I'm Chanakan Kongyen 👋</h1>
   <p>An IT student passionate about building things with code.</p>
 </div>
