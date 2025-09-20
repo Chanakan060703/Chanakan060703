@@ -36,7 +36,7 @@ I enjoy solving problems, building real-world projects, and continuously learnin
 ### 📱 Maebanjumpen (Mobile + Backend)
 <div align="left">
 
-A homestay booking system for Mae Banjumpen project — mobile app + backend APIs.  
+A **housekeeper hiring platform** — users can search, hire, and manage housekeeper services via mobile app and backend system.  
 
 **🔧 Tech Stack:** Flutter (Dart) · Spring Boot (Java) · MySQL · REST API  
 **💼 Role:** Full-stack Developer (Focus on Backend & API Development)  
@@ -56,7 +56,7 @@ A homestay booking system for Mae Banjumpen project — mobile app + backend API
 ### 💻 IhaveGPU (Web Application)
 <div align="left">
 
-An e-commerce platform for GPU rentals and purchases.  
+A **web platform for buying and selling computer hardware, software, and accessories.**  
 
 **🔧 Tech Stack:** Java · Spring MVC · JSP · MySQL · REST API  
 **💼 Role:** Full-stack Developer  
@@ -74,7 +74,7 @@ An e-commerce platform for GPU rentals and purchases.
 ### 🧸 Toyshop (Mobile Application)  
 <div align="left">
 
-A simple mobile app for toy store product browsing and shopping cart management.  
+A **mobile application for toy store browsing, product details, and shopping cart management.**  
 
 **🔧 Tech Stack:** Java · Android Studio · Firebase  
 **💼 Role:** Mobile Developer  
@@ -86,6 +86,7 @@ A simple mobile app for toy store product browsing and shopping cart management.
 [![View Project Code](https://img.shields.io/badge/🧸_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/toyShopApp)
 
 </div>
+
 
 ---
 
