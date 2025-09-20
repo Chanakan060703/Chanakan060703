@@ -5,7 +5,7 @@
 
   <!-- Heading -->
   <h1 style="margin-top: 15px; font-size: 2.2rem;">Hi there, I'm <span style="color:#007acc;">Chanakan Kongyen</span> 👋</h1>
-  <p style="font-size: 1.1rem; color: #555;">An IT student passionate about building things with code 🚀</p>
+  <p style="font-size: 1.1rem; color: #555;">IT Student | Full-Stack Developer | Passionate about building things with code 🚀</p>
 
 </div>
 
@@ -13,9 +13,8 @@
 
 ## 👨‍💻 About Me  
 
-I'm a self-motivated **IT student** with hands-on experience in both **web and mobile application development**.  
-I’m proficient in **Java**, **Spring Boot**, **HTML**, and **Flutter**, with a solid understanding of **full-stack development principles**.  
-I love learning new technologies and applying them to real-world projects.  
+I’m a self-driven **IT student** with a passion for **web and mobile app development**.  
+I enjoy solving problems, building real-world projects, and continuously learning new technologies.  
 
 🎓 **Currently studying:** B.Sc. in Information Technology at Maejo University.
 
@@ -37,13 +36,14 @@ I love learning new technologies and applying them to real-world projects.
 ### 📱 Maebanjumpen (Mobile + Backend)
 <div align="left">
 
-**🔧 Tech Stack:** Flutter (Dart) · Spring Boot (Java) · MySQL · REST API  
+A homestay booking system for Mae Banjumpen project — mobile app + backend APIs.  
 
-**💼 Role:** Backend Developer  
-- Developed **RESTful APIs** using Spring Boot & Java (with Hibernate for MySQL).  
-- Designed authentication system with role-based access control.  
-- Built and tested backend with IntelliJ IDEA & Postman.  
-- Collaborated with team on mobile app development using **Flutter + VS Code**.  
+**🔧 Tech Stack:** Flutter (Dart) · Spring Boot (Java) · MySQL · REST API  
+**💼 Role:** Full-stack Developer (Focus on Backend & API Development)  
+- Built RESTful APIs with Spring Boot & Hibernate for MySQL.  
+- Designed role-based authentication & authorization.  
+- Tested backend using IntelliJ IDEA & Postman.  
+- Collaborated with team on mobile app using **Flutter + VS Code**.  
 
 **🔗 Links:**  
 [![View Mobile App Code](https://img.shields.io/badge/📱_Mobile_App_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/maebanjumpen)  
@@ -56,12 +56,13 @@ I love learning new technologies and applying them to real-world projects.
 ### 💻 IhaveGPU (Web Application)
 <div align="left">
 
-**🔧 Tech Stack:** Java · Spring MVC · JSP · MySQL · REST API  
+An e-commerce platform for GPU rentals and purchases.  
 
-**💼 Role:** Backend Developer  
-- Built core backend using **Spring MVC + Java** in Eclipse.  
-- Developed APIs for user management, product listings, and order flow.  
-- Designed database schema and handled server-side logic.  
+**🔧 Tech Stack:** Java · Spring MVC · JSP · MySQL · REST API  
+**💼 Role:** Full-stack Developer  
+- Developed core backend using **Spring MVC + Java**.  
+- Created APIs for user management, product listings, and order flow.  
+- Designed database schema and implemented server-side logic.  
 
 **🔗 Links:**  
 [![View Project Code](https://img.shields.io/badge/💻_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/ihavegpuWeb)
@@ -73,16 +74,36 @@ I love learning new technologies and applying them to real-world projects.
 ### 🧸 Toyshop (Mobile Application)  
 <div align="left">
 
-**🔧 Tech Stack:** Java · Android Studio · Firebase
+A simple mobile app for toy store product browsing and shopping cart management.  
 
+**🔧 Tech Stack:** Java · Android Studio · Firebase  
 **💼 Role:** Mobile Developer  
-- Built the Toyshop app using **Android Studio with Java**. :contentReference  
-- Developed UI layouts and navigation flow for product listing and shopping cart features.  
-- Managed project structure, dependencies, and Gradle setup. :contentReference
-- Tested on emulator / physical device to ensure functionality and UI correctness.  
+- Built UI layouts and navigation flow.  
+- Integrated Firebase for data storage.  
+- Tested on both emulator and real devices.  
 
 **🔗 Links:**  
 [![View Project Code](https://img.shields.io/badge/🧸_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/toyShopApp)
+
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-bottom: 20px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; margin-top: 10px;" />
 
 </div>
 
@@ -98,29 +119,7 @@ I love learning new technologies and applying them to real-world projects.
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; margin-top: 10px;" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-top: 10px;" />
-
-</div>
-
----
-
-## 🌐 Social Links & Tech Stack  
+## 🌐 Social Links  
 
 <div align="center">
   
@@ -144,3 +143,6 @@ I love learning new technologies and applying them to real-world projects.
 
 - 📧 **Email:** [Chonakankongyen@gmail.com](mailto:Chonakankongyen@gmail.com)  
 - 💻 **GitHub:** [github.com/Chanakan060703](https://github.com/Chanakan060703)  
+
+> 💬 _Open to collaboration, internship opportunities, and exciting projects — feel free to reach out!_
+
