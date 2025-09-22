@@ -134,6 +134,7 @@ A **mobile application for toy store browsing, product details, and shopping car
 
 <br><br>
 
+⚡ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
 
 </div>
