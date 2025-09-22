@@ -90,6 +90,15 @@ A **mobile application for toy store browsing, product details, and shopping car
 
 ---
 
+## ⚡Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -131,15 +140,6 @@ A **mobile application for toy store browsing, product details, and shopping car
 <a href="https://www.instagram.com/_.cnk.46_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-</div>
-
----
-
-## ⚡Tech Stack
-
-<div>
-<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
 
 </div>
 
