@@ -132,9 +132,12 @@ A **mobile application for toy store browsing, product details, and shopping car
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br><br>
+</div>
 
-⚡ Tech Stack
+---
+
+##⚡ Tech Stack
+<div>
 <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
 
 </div>
