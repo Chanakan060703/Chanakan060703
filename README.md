@@ -90,15 +90,6 @@ A **mobile application for toy store browsing, product details, and shopping car
 
 ---
 
-## ⚡Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -114,6 +105,15 @@ A **mobile application for toy store browsing, product details, and shopping car
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; margin-top: 10px;" />
+
+</div>
+
+---
+
+## ⚡Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git" />
 
 </div>
 
