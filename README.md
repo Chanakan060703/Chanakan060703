@@ -13,8 +13,8 @@
 
 ## 👨‍💻 About Me  
 
-I’m a self-driven **IT student** with a passion for **web and mobile app development**.  
-I enjoy solving problems, building real-world projects, and continuously learning new technologies.  
+I’m a self-driven **IT student** with a strong passion for **web and mobile app development**.  
+Motivated by problem-solving and real-world project building, I bring hands-on experience in full-stack development using HTML, CSS, JavaScript, Flutter, and Java-based back-end frameworks. I enjoy continuously learning new technologies and am committed to creating responsive, scalable, and user-centric applications. Seeking opportunities to contribute to innovative development teams and grow as a full-stack engineer.
 
 🎓 **Currently studying:** B.Sc. in Information Technology at Maejo University.
 
