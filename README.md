@@ -102,7 +102,7 @@ A **mobile application for toy store browsing, product details, and shopping car
 
   <!-- GitHub Stats Card -->
   <img 
-    src="[https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight&cache_seconds=5000)"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight"
     alt="GitHub Stats" 
     style="border-radius: 12px; margin-bottom: 15px; max-width: 100%;"
   />
@@ -116,7 +116,7 @@ A **mobile application for toy store browsing, product details, and shopping car
 
   <!-- Top Languages -->
   <img 
-    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight&cache_seconds=5000)"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight"
     alt="Top Languages" 
     style="border-radius: 12px; margin-top: 10px; max-width: 100%;"
   />
