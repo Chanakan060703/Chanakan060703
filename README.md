@@ -101,21 +101,47 @@ A **mobile application for toy store browsing, product details, and shopping car
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;" />
 
-<br>
+<br>## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; margin-top: 10px;" />
+<div align="center" style="margin-top: 20px;">
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night"
+    alt="Contribution Graph" 
+    style="border-radius: 12px; margin-bottom: 25px; max-width: 100%;"
+  />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats" 
+    style="border-radius: 12px; margin-bottom: 15px; max-width: 100%;"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight"
+    alt="GitHub Streak" 
+    style="border-radius: 12px; margin-bottom: 15px; max-width: 100%;"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanakan060703&layout=compact&theme=tokyonight"
+    alt="Top Languages" 
+    style="border-radius: 12px; margin-top: 10px; max-width: 100%;"
+  />
 
 </div>
 
 ---
 
-## ⚡Tech Stack
+## ⚡ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git,docker" />
-
+<div align="center" style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,mysql,html,css,js,git,docker" />
 </div>
-
 ---
 
 ## 📄 Resume  
