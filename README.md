@@ -89,18 +89,6 @@ A **mobile application for toy store browsing, product details, and shopping car
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanakan060703&theme=tokyo-night" alt="Contribution Graph" style="border-radius: 10px; margin-bottom: 20px;" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chanakan060703&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius: 10px;" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chanakan060703&theme=tokyonight" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;" />
-
 <br>## 📊 GitHub Stats
 
 <div align="center" style="margin-top: 20px;">
